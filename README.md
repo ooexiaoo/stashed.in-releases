@@ -45,7 +45,6 @@
 
 - **Web App**: [https://stashed.in](https://stashed.in)
 - **Blog**: [https://blog.stashed.in](https://blog.stashed.in)
-- **Twitter**: [@stashedin](https://twitter.com/stashedin)
 - **Package Name**: `app.stashed.web`
 
 ## About
