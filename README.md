@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="screenshots/logo.svg">
-    <img src="screenshots/icon.png" width="128" alt="Stashed">
-  </picture>
+  <img src="screenshots/icon.png" width="128" alt="Stashed">
 </p>
 
 <h1 align="center">Stashed</h1>
