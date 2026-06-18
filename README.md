@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://stashed.in">Web App</a> ·
-  <a href="https://stashlist.pages.dev">Blog</a> ·
+  <a href="https://blog.stashed.in">Blog</a> ·
   <a href="https://github.com/ooexiaoo/stashed.in-releases/releases">Releases</a>
 </p>
 
@@ -35,7 +35,7 @@
 | Platform | Download |
 |----------|----------|
 | Android | [Download APK](https://github.com/ooexiaoo/stashed.in-releases/releases) (latest release) |
-| Browser Extension | [Chrome Web Store](https://chrome.google.com/webstore) · [Firefox Add-ons](https://addons.mozilla.org) |
+| Browser Extension | [Chrome](https://github.com/ooexiaoo/Stash-Extension/releases/latest) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/stashed-in-extension/) |
 | Web App | [stashed.in](https://stashed.in) |
 
 ## Screenshots
@@ -47,7 +47,7 @@
 ## Links
 
 - **Web App**: [https://stashed.in](https://stashed.in)
-- **Blog**: [https://stashlist.pages.dev](https://stashlist.pages.dev)
+- **Blog**: [https://blog.stashed.in](https://blog.stashed.in)
 - **Twitter**: [@stashedin](https://twitter.com/stashedin)
 - **Package Name**: `app.stashed.web`
 
